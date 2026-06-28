@@ -1,4 +1,6 @@
+streamlit
 pandas
+
 numpy
 scikit-learn
 dlib-bin
@@ -8,6 +10,6 @@ supabase
 bcrypt
 segno
 pillow
-streamlit
+
 resemblyzer
 librosa
